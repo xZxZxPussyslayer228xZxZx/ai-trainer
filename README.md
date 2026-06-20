@@ -1,4 +1,4 @@
-# GOVNO 4.8 : AI Training tool
+# GOVNO 5.0 : AI Training tool
 
 AI training tool with built-in dataset support and NEON oprinizations written on C
 
@@ -8,8 +8,8 @@ Reconfigurable LLM parameters
 Custom datasets support
 
 ## Usage
-./govno4.8 train data.txt model.bin
-./govno4.8 generate model.bin <prompt>
+./govno5.0 train data.txt model.bin
+./govno5.0 generate model.bin <prompt>
 
 ## Dependencies
 No dependencies
@@ -21,3 +21,8 @@ No.
 No.
 - What if my program crashed?
 Contact developers.
+
+## Changelog
+- Overall architecture improvements
+- Bugfixes
+- More options
